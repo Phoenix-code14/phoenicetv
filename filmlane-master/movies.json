@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "title": "The Shawshank Redemption",
+    "characters": ["Andy Dufresne", "Red"],
+    "director": "Frank Darabont"
+  },
+  {
+    "id": 2,
+    "title": "The Godfather",
+    "characters": ["Don Vito Corleone", "Michael Corleone"],
+    "director": "Francis Ford Coppola"
+  },
+ ...
+]
